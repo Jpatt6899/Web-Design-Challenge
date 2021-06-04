@@ -1,0 +1,63 @@
+.header { 
+    grid-area: header_section;
+    background-color: #FDD; 
+    }
+    
+body {
+    background-color: rgb(226, 229, 229);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;}
+
+
+.test{
+    
+    background-color: white;
+    border: 3px solid white;
+    padding: 20px; 
+    margin-top: 10%;
+    /* margin-right: 60%; */
+    /* float: left; */
+    word-wrap: normal;
+}
+
+.nav-pills li {
+    margin-left: 50px; 
+    color: grey;
+
+    
+} 
+
+.visual {
+    background-color: white;
+    padding: 20px;
+    margin-left: 60%;
+    margin-top: 10%;
+    float: right;
+    
+  }
+
+h2 {
+    color: Teal;
+}
+
+.pill-nav{
+    color:white;
+    background-color: teal;
+    padding-right: 80px;
+}
+
+p {
+
+    word-wrap: normal;
+}
+
+.contain {
+    background-color: white;
+    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    
+}
